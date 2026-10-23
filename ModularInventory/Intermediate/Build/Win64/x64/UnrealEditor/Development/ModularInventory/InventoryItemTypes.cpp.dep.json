@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jdev0\\documents\\github\\inventory\\plugins\\modularinventory\\source\\modularinventory\\private\\inventoryitemtypes.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jdev0\\documents\\github\\inventory\\intermediate\\build\\win64\\x64\\inventoryeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "c:\\users\\jdev0\\documents\\github\\inventory\\plugins\\modularinventory\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\modularinventory\\definitions.modularinventory.h",
+            "c:\\users\\jdev0\\documents\\github\\inventory\\plugins\\modularinventory\\source\\modularinventory\\public\\inventoryitemtypes.h",
+            "j:\\unreal\\ue_5.7\\engine\\source\\runtime\\net\\core\\classes\\net\\serialization\\fastarrayserializer.h",
+            "j:\\unreal\\ue_5.7\\engine\\source\\runtime\\net\\core\\public\\net\\core\\misc\\guidreferences.h",
+            "j:\\unreal\\ue_5.7\\engine\\source\\runtime\\net\\core\\public\\net\\core\\pushmodel\\pushmodel.h",
+            "j:\\unreal\\ue_5.7\\engine\\source\\runtime\\net\\core\\public\\net\\core\\netcoremodule.h",
+            "j:\\unreal\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\netcore\\uht\\fastarrayserializer.generated.h",
+            "c:\\users\\jdev0\\documents\\github\\inventory\\plugins\\modularinventory\\intermediate\\build\\win64\\unrealeditor\\inc\\modularinventory\\uht\\inventoryitemtypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jdev0\\documents\\github\\inventory\\plugins\\modularinventory\\source\\modularinventory\\private\\modularinventory.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jdev0\\documents\\github\\inventory\\intermediate\\build\\win64\\x64\\inventoryeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "c:\\users\\jdev0\\documents\\github\\inventory\\plugins\\modularinventory\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\modularinventory\\definitions.modularinventory.h",
+            "c:\\users\\jdev0\\documents\\github\\inventory\\plugins\\modularinventory\\source\\modularinventory\\public\\modularinventory.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

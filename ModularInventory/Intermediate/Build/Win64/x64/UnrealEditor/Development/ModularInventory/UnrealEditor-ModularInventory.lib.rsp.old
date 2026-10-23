@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ModularInventory.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/JDev0/Documents/GitHub/Inventory/Intermediate/Build/Win64/x64/InventoryEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/JDev0/Documents/GitHub/Inventory/Plugins/ModularInventory/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModularInventory/Module.ModularInventory.cpp.obj"
+"C:/Users/JDev0/Documents/GitHub/Inventory/Plugins/ModularInventory/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModularInventory/InventoryComponent.cpp.obj"
+"C:/Users/JDev0/Documents/GitHub/Inventory/Plugins/ModularInventory/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModularInventory/InventoryItemTypes.cpp.obj"
+"C:/Users/JDev0/Documents/GitHub/Inventory/Plugins/ModularInventory/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModularInventory/Default.rc2.res"
+/OUT:"C:/Users/JDev0/Documents/GitHub/Inventory/Plugins/ModularInventory/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModularInventory/UnrealEditor-ModularInventory.lib"
